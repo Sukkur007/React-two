@@ -1,0 +1,23 @@
+.mail_field {
+    display: block;
+    margin: 20px 0px 20px 10px;
+}
+
+.text_color {
+    color: red;
+}
+
+.field_box {
+    margin-left: 10px;
+
+}
+
+.err_style {
+    color: red;
+    font-size: 22px;
+}
+
+.error_border {
+    border: 1px solid red;
+}
+
